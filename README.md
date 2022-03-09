@@ -1,8 +1,8 @@
 # 64-bits worth of Sudoku for TempleOS/TinkerOS
 
-- It can generate 64-bits = 18,446,744,073,709,551,615 worth of different Sudoku puzzles for you to solve so hopefully you won't run out.
+- It can generate 64-bits = 18,446,744,073,709,551,616 worth of different Sudoku puzzles for you to solve so hopefully you won't run out.
 
-- It can save/load and saves your best time for each number of starting hints you choose to start the game with in the registry.
+- It can save/load (if installed on a writable filesystem) and saves your best time for each number of starting hints you choose to start the game with in the registry.
 
 - You can get a random hint or have your puzzle validated for the cost of a 60 second time penalty.
 
