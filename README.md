@@ -1,5 +1,9 @@
 # 64-bits worth of Sudoku for TempleOS/TinkerOS
 
+<p align="center">
+  <img src="https://github.com/tinkeros/Sudoku/raw/master/sudoku.png" />
+</p>
+
 - It can generate 64-bits = 18,446,744,073,709,551,616 worth of different Sudoku puzzles for you to solve so hopefully you won't run out.
 
 - It can save/load (if installed on a writable filesystem) and saves your best time for each number of starting hints you choose to start the game with in the registry.
